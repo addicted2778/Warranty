@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Warranty</string>
+
+    <string name="pref_name" translatable="false">Warranty</string>
+    <string name="login">Login</string>
+    <string name="hint_mobile_no" translatable="false">Enter your mobile number</string>
+    <string name="_1234_567_890">1234-567-890</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="please_input_mobile_no" translatable="false">Please input mobile number</string>
+    <string name="check_internet_connection" translatable="false">Please check your internet connection.</string>
+    <string name="txt_dismiss" translatable="false">Dismiss</string>
+    <string name="server_not_responding" translatable="false">Server not responding, please try again.</string>
+    <string name="message_logout_user_not_found" translatable="false">Looks like you have logged in on another place. Please login again to automatically logout from all other places.</string>
+    <string name="txt_ok" translatable="false">OK</string>
+    <string name="txt_cancel" translatable="false">Cancel</string>
+    <string name="account_verification" translatable="false">Verification</string>
+    <string name="enter_the_code_we_sent" translatable="false">Enter the code we sent to the number %1$s via SMS</string>
+    <string name="didn_t_receive_the_code" translatable="false">Did not receive the code?</string>
+    <string name="resend_otp" translatable="false">Resend OTP</string>
+    <string name="error_empty_fields" translatable="false">This is mandatory.</string>
+    <string name="invalid_otp" translatable="false">Invalid OTP</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
